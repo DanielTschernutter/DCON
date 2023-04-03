@@ -11,7 +11,11 @@ All details about this solver including licensing information can be found on ht
 
 #### Instructions
 
-The package can be used as follows. Note that we provide a method .get_keras() that allows to extract a Keras model using the optimized neural network weights after training.
+The package can be installed via
+```
+pip install .
+```
+and used as follows. Note that we provide a method .get_keras() that allows to extract a Keras model using the optimized neural network weights after training.
 
 ```python
 import numpy as np
