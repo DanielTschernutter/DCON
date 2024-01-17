@@ -2,7 +2,7 @@
 #### A Globally Convergent Algorithm for Neural Network Parameter Optimization Based on Difference-of-Convex Functions
 
 This package contains an implemantation of the DCON algorithm introduced in
-> D. Tschernutter, M. Kraus, S. Feuerriegel (2022). A Globally Convergent Algorithm for Neural Network Parameter Optimization Based on Difference-of-Convex Functions. Working Paper
+> D. Tschernutter, M. Kraus, S. Feuerriegel (2024). A Globally Convergent Algorithm for Neural Network Parameter Optimization Based on Difference-of-Convex Functions. Transactions on Machine Learning Research (TMLR)
 
 Within the package we use the OSQP solver for our subproblems introduced in
 > B. Stellato, G. Banjac, P. Goulart, A. Bemporad, S. Boyd (2020). OSQP: An operator splitting solver for quadratic programs. Mathematical Programming Computation
